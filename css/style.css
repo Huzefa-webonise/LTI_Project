@@ -393,3 +393,59 @@ section {
   background: #00009D;
   border-radius: 4px;
 }
+
+
+/* testimonial */
+
+#testimonial .heading h3 {
+  font-family: 'Bw Modelica LTI';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: #00009D;
+}
+#testimonial .heading h6 {
+  font-family: 'Bw Modelica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #4F4F4F;
+}
+#testimonial .title h6 {
+  font-family: 'Bw Modelica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  color: #00009D;
+}
+#testimonial .title p {
+  font-family: 'Bw Modelica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  color: #00009D;
+}
+#testimonial .content p {
+  font-family: 'Bw Modelica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+#testimonial .title {
+  padding: 15px 30px;
+}
+#testimonial .content {
+  background: #00009D;
+  padding: 30px;
+  width: 100%;
+  height: 250px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+}
